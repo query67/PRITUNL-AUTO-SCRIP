@@ -3,7 +3,7 @@
 -----------------------------------------
 www.pritunl.com
 
-Create By DRCYBER
+Create By UDONCYBER
 -----------------------------------------
 
 
