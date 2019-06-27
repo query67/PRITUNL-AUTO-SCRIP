@@ -18,7 +18,7 @@ Script ini hanya mengandungi
 
 -Web Server
 
--Squid Proxy Port 7166,60000"
+-Squid Proxy Port 7166,60000,8080"
 
 -Squid
 
@@ -26,7 +26,7 @@ Script ini hanya mengandungi
 
 -Protection DDOS
 
--TimeZone : Malaysia
+-TimeZone : Thai
 
 -----------------------------------------
 
@@ -49,24 +49,8 @@ chmod +x ubuntu14.sh
 
 -----------------------------------------
 
-Ingin beli VPS Beli SILA KE DigitalOcean :- https://m.do.co/c/ec4f29ced665
-
------------------------------------------
 
 
------------------------------------------
-
-NOTE
-
-Saya tidak akan bertanggungjawab jika berlaku sesuatu pada diri atau bukan pada diri anda
-
-Sila dapatkan kebenaran sebelum meng"edit"
-
------------------------------------------
+BY UDONCYBER
 
 
-BY DRCYBER
-
-MUHAMAD NAJMI http://telegram.me/drcybertech
-
-TERIMA KASIH
